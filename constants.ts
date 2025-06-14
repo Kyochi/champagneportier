@@ -16,7 +16,7 @@ export const PRODUCTS: Product[] = [
     name: 'Cuvée Royale Brut', 
     description: 'Un champagne vif et élégant, parfait pour toutes les célébrations. Fines bulles et arômes d\'agrumes.', 
     price: '45,00 €', 
-    imageUrl: 'https://picsum.photos/seed/cuvee_royale/400/600', 
+    imageUrl: 'https://i.ibb.co/gbG7QQRz/Capture-d-e-cran-2025-06-13-a-00-57-56.png', 
     altText: 'Bouteille élégante de champagne Cuvée Royale Brut avec reflets dorés et bulles fines visibles'
   },
   { 
@@ -24,7 +24,7 @@ export const PRODUCTS: Product[] = [
     name: 'Grand Millésime 2015', 
     description: 'Une expression complexe et riche d\'une année exceptionnelle. Notes de fruits mûrs et de brioche.', 
     price: '75,00 €', 
-    imageUrl: 'https://picsum.photos/seed/millesime_2015/400/600', 
+    imageUrl: 'https://i.ibb.co/gbG7QQRz/Capture-d-e-cran-2025-06-13-a-00-57-56.png', 
     altText: 'Prestigieuse bouteille de champagne Grand Millésime 2015, idéalement sur un fond sombre et luxueux'
   },
   { 
@@ -32,7 +32,7 @@ export const PRODUCTS: Product[] = [
     name: 'Rosé Impérial', 
     description: 'Frais et fruité, ce rosé séduit par sa finesse et ses arômes délicats de fruits rouges.', 
     price: '55,00 €', 
-    imageUrl: 'https://picsum.photos/seed/rose_imperial/400/600', 
+    imageUrl: 'https://i.ibb.co/gbG7QQRz/Capture-d-e-cran-2025-06-13-a-00-57-56.png', 
     altText: 'Flûtes remplies de champagne Rosé Impérial pétillant, évoquant la fraîcheur et les fruits rouges'
   },
   { 
@@ -40,7 +40,7 @@ export const PRODUCTS: Product[] = [
     name: 'Blanc de Blancs Prestige', 
     description: 'Élaboré exclusivement à partir de Chardonnay, ce champagne offre une pureté et une minéralité remarquables.', 
     price: '65,00 €', 
-    imageUrl: 'https://picsum.photos/seed/blanc_de_blancs/400/600', 
+    imageUrl: 'https://i.ibb.co/gbG7QQRz/Capture-d-e-cran-2025-06-13-a-00-57-56.png', 
     altText: 'Bouteille de champagne Blanc de Blancs Prestige, mettant en avant sa pâleur et son élégance'
   },
 ];
@@ -57,7 +57,7 @@ export const ABOUT_CONTENT = {
   title: "Notre Maison, Votre Émotion",
   paragraph1: "Fondée en 1888, la maison Portier perpétue la tradition champenoise avec une quête constante de perfection. Chaque bouteille est le reflet de notre terroir unique et de l'engagement passionné de nos vignerons.",
   paragraph2: "Nous croyons que le champagne est plus qu'une boisson; c'est une expérience, une célébration des moments précieux de la vie. Partagez ces instants inoubliables avec Éclat Doré.",
-  imageUrl: "https://picsum.photos/seed/cave_champagne/800/600",
+  imageUrl: "https://scontent-cdg4-1.xx.fbcdn.net/v/t39.30808-6/480890056_1157993386119741_4966440340084487017_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_ohc=E6BxyxwDjmMQ7kNvwHNgFj1&_nc_oc=AdnSt1zrFRUNZqqWq0wtSFPCB8aDvc60zRPhU20hqswNH84VI806KWa7YiCOwo4K-GtrdmqU7gR7phSe3FbVcHsK&_nc_zt=23&_nc_ht=scontent-cdg4-1.xx&_nc_gid=Br1tBGHwr4W31Y7fLmDL-Q&oh=00_AfNLxFdVgMgeACzgQoPG2tnVliT6JuJKr_-cYRjC16zbRg&oe=68511825",
   altText: "Intérieur d'une cave de vieillissement de champagne traditionnelle avec des pupitres et des bouteilles"
 };
 
